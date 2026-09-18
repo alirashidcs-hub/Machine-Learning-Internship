@@ -3,6 +3,8 @@
 **Arch Technologies — Machine Learning / Data Science Internship**
 Author: Ali Rashid
 
+## Demo link: https://drive.google.com/file/d/1BQlGI2ylt4-oacd60vcMGwaAO8SsZP38/view?usp=sharing
+
 ## Overview
 Builds and compares machine learning models that classify SMS/email
 messages as **spam** or **ham** (not spam), using a labelled dataset.
